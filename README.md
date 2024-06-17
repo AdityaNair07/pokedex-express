@@ -68,4 +68,4 @@ The purpose of the project is to find the pokemon details on search. The user se
    
 5. Open a pull request.
 
-## Happy Learning 😁##
+## Happy Learning 😁
