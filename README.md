@@ -24,14 +24,16 @@ The purpose of the project is to find the pokemon details on search. The user se
    git clone https://github.com/AdityaNair07/pokedex-express.git
    cd pokedex-express
    
-2. npm install
+2. Ensure all dependencies are installed:
+   ```sh
+   npm install
 
 ## Usage
 1. Configure port variable:
    Change the port number if needed in index.js:
    ```sh
     const PORT=3000
-   
+  
 2. Run the project:
    ```sh
     node index.js
