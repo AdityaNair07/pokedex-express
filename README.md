@@ -21,20 +21,20 @@ The purpose of the project is to find the pokemon details on search. The user se
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AdityaNair07/pokedex-express.git
+   cd pokedex-express
    
 2. npm install
 
 ## Usage
-1. Configure environment variables:
-   Create a .env file in the root of the project and add your environment variables:
+1. Configure port variable:
+   Change the port number if needed in index.js:
    ```sh
-    PORT=3000
+    const PORT=3000
    
 2. Run the project:
    ```sh
-    npm start
+    node index.js
 
 3. Open your browser and go to http://localhost:3000
 
